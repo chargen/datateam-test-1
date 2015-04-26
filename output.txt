@@ -1,0 +1,22 @@
+AVG score GROUPED BY movie_name
+inception: 8
+pulp_fiction: 6
+ender's_game: 8
+
+MIN score GROUPED BY movie_name
+inception: 7
+pulp_fiction: 4
+ender's_game: 8
+
+MAX score GROUPED BY movie_name
+inception: 8
+pulp_fiction: 8
+ender's_game: 8
+
+AVG age GROUPED BY score
+4: 44
+7: 44
+8: 13
+
+XXX age GROUPED BY score
+

@@ -1,0 +1,8 @@
+AVG score movie_name
+MIN score movie_name
+MAX score movie_name
+AVG age score
+MIN first_name age
+XXX age score
+AVG something score
+AVG age something
